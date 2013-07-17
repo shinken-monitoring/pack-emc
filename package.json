@@ -1,0 +1,27 @@
+{
+	"name": "emc",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-emc",
+	"author": "Jean Gabes",
+	"description": "Checks for Clariion storage box",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Imrane Dessai",
+		"email": "dessai.imrane@gmail.com"
+	  } 
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-emc",
+	"keywords": [
+	  "pack",
+	  "emc-clariion"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
