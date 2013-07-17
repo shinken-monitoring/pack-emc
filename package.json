@@ -18,7 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-emc",
 	"keywords": [
 	  "pack",
-	  "emc-clariion"
+	  "emc",
+	  "clariion"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
